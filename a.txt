@@ -1,3 +1,4 @@
 git init - inicializando um repo git
 git status vericar o status do repositorio 
 git - m - comentar as modificaçoes 
+git push - enviar para githur
