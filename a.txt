@@ -1,0 +1,2 @@
+git init - inicializando um repo git
+git status vericar o status do repositorio 
